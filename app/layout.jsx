@@ -1,10 +1,10 @@
 import { Sometype_Mono } from "next/font/google";
 import "./globals.css";
-import MainNav from "@/components/MainNav";
-import PageTransition from "@/components/PageTransition";
-import RectangleTransition from "@/components/RectangleTransition";
-import Gradient from "@/components/Gradient";
-import Header from "@/components/Header";
+import MainNav from "../../components/MainNav";
+import PageTransition from "../../components/PageTransition";
+import RectangleTransition from "../../components/RectangleTransition";
+import Gradient from "../../components/Gradient";
+import Header from "../../components/Header";
 
 const sometypeMono = Sometype_Mono({
   variable: "--font-sometypeMono",

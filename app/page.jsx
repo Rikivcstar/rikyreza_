@@ -5,12 +5,12 @@ import { HiOutlineMail } from "react-icons/hi";
 import { CiLinkedin } from "react-icons/ci";
 
 import { TypeAnimation } from "react-type-animation";
-import Bloob from "@/components/Bloob";
+import Bloob from "../../components/Bloob";
 import Image from "next/image";
 import avatarImg from "@/public/assets/avatar.png";
 import { inflate } from "zlib";
 import Social from "../../components/Social";
-import Pattern from "@/components/Pattern";
+import Pattern from "../../components/Pattern";
 
 export const Home = () => {
   return (
