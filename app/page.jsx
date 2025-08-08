@@ -9,7 +9,7 @@ import Bloob from "@/components/Bloob";
 import Image from "next/image";
 import avatarImg from "@/public/assets/avatar.png";
 import { inflate } from "zlib";
-import Social from "@/components/Social";
+import Social from "../../components/Social";
 import Pattern from "@/components/Pattern";
 
 export const Home = () => {
