@@ -1,12 +1,12 @@
 "use client";
-import Info from "../../components/Info";
-import Journey from "../../components/Journey";
-import Skills from "../../components/Skills";
-import Stats from "../../components/Stats";
-import Social from "../../components/Social";
-import Bloob from "../../components/Bloob";
-import Testimonial from "../../components/Testimonial";
-import { ScrollArea } from "../../components/ui/scroll-area";
+import Info from "@/components/Info";
+import Journey from "@/components/Journey";
+import Skills from "@/components/Skills";
+import Stats from "@/components/Stats";
+import Social from "@/components/Social";
+import Bloob from "@/components/Bloob";
+import Testimonial from "@/components/Testimonial";
+import { ScrollArea } from "@/components/ui/scroll-area";
 import { motion } from "framer-motion";
 import Image from "next/image";
 
